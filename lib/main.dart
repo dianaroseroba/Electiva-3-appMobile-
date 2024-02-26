@@ -36,7 +36,7 @@ class LoginPage extends StatelessWidget {
             mainAxisAlignment: MainAxisAlignment.center,
             children: [
               const Image(
-                image: AssetImage("/assets/loginLogo.png"), // Logo de inicio de sesión
+                image: AssetImage('assets/login-logo.png'), // Logo de inicio de sesión
                 height: 150,
               ),
               const SizedBox(height: 20),
